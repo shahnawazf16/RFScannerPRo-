@@ -1,2 +1,0 @@
-# RFScannerPRo-
-RF Scanner Pro 
